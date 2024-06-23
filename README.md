@@ -42,5 +42,5 @@ As of version 1.3:
 - *random*
 - *time*
 -----
-GitHub repo: [PasswordManager](https://github.com/Shini9000/PasswordManagerProject)<br>
+GitHub repo: [PasswordManager](https://github.com/Shini9000/PasswordManagerApplication)<br>
 Author: [Linktree](https://linktr.ee/shini9000)
